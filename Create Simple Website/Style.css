@@ -1,0 +1,55 @@
+
+.header{
+width: 90%; margin: auto;text-align: center; padding: 10px;
+position: sticky;top: 0;background-color: rgb(254, 255, 254);
+border-bottom: 2px solid rgb(26, 0, 128);
+}
+
+.sub_header{
+width: 50%;margin: auto;display: inline-block;
+padding: 10px; text-align: center;    
+}
+
+.title{
+margin: auto;line-height: 120%;
+}
+
+.nav_menu{
+font-size: 25px;
+}
+
+.logo_php{
+width: 150px; float: inline-start;
+}
+
+.logo_aez-tech{
+width: 130px; float: inline-end;
+}
+
+p{
+font-size:25px ; text-align: center;
+}
+
+.content{    
+background-color: rgb(196, 228, 255);text-align: center;
+line-height: 150%;font-size:30px ; width: 80%;margin: auto;
+padding-top: 30px;padding-bottom: 20px;
+}
+
+.php_version,.website{
+color: #821818;background-color: rgb(196, 228, 255);
+}
+
+.social_Media{
+    width: 60%;  text-align: center;  margin: auto;
+}
+
+.social_Media_logo{
+    padding: 10px;
+}
+
+.footer{
+text-align: center;border-top: 2px solid rgb(26, 0, 128);
+padding-top: 40px;width: 90%;margin: auto;padding-bottom: 40px;
+position: absolute;right: 5%;left:5% ;bottom: 0;
+}
